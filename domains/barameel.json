@@ -4,6 +4,8 @@
     "github": "midous007-hue"
   },
   "claimedAt": "2026-10-23T21:22:14.131Z",
-  "records": {},
+  "records": {
+    "CNAME": "midous007-hue.github.io"
+  },
   "country": "EG"
 }
