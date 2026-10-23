@@ -4,6 +4,8 @@
     "github": "Hisana-07"
   },
   "claimedAt": "2026-10-23T17:42:33.096Z",
-  "records": {},
+  "records": {
+    "CNAME": "hisana-07.github.io"
+  },
   "country": "IN"
 }
