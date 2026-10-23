@@ -8,10 +8,14 @@
     "A": [
       "64.29.17.1",
       "216.198.79.1"
-    ],
-    "TXT": [
-      "vc-domain-verify=repomindai.runs-at.dev,2d62097577ccf4dd18ab"
     ]
   },
-  "country": "PL"
+  "country": "PL",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=repomindai.runs-at.dev,2d62097577ccf4dd18ab"
+      ]
+    }
+  }
 }
