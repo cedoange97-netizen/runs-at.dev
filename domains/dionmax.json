@@ -4,23 +4,20 @@
     "github": "Dionmaxx25"
   },
   "claimedAt": "2026-10-24T03:29:25.080Z",
-  "records": {},
-  "country": "US",
-  "subdomains": {
-    "dionmax": {
-      "TXT": [
-        "v=spf1 include:spf.improvmx.com -all"
-      ],
-      "MX": [
-        {
-          "priority": 10,
-          "value": "mx1.improvmx.com"
-        },
-        {
-          "priority": 20,
-          "value": "mx2.improvmx.com"
-        }
-      ]
-    }
-  }
+  "records": {
+    "TXT": [
+      "v=spf1 include:spf.improvmx.com -all"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mx1.improvmx.com"
+      },
+      {
+        "priority": 20,
+        "value": "mx2.improvmx.com"
+      }
+    ]
+  },
+  "country": "US"
 }
