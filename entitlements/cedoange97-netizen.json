@@ -2,8 +2,12 @@
   "github": "cedoange97-netizen",
   "included": 1,
   "adminGranted": 0,
-  "names": [],
-  "pending": {},
+  "names": [
+    "my-qhsetool"
+  ],
+  "pending": {
+    "my-qhsetool": "2026-10-24T14:46:16.397Z"
+  },
   "pullRequests": {},
   "history": []
 }
