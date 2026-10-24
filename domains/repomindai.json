@@ -23,12 +23,5 @@
       "v=spf1 include:spf.improvmx.com ~all"
     ]
   },
-  "country": "PL",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=repomindai.runs-at.dev,2d62097577ccf4dd18ab"
-      ]
-    }
-  }
+  "country": "PL"
 }
