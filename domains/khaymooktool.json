@@ -5,5 +5,15 @@
   },
   "claimedAt": "2026-10-24T14:05:41.602Z",
   "records": {},
-  "country": "VN"
+  "country": "VN",
+  "subdomains": {
+    "khaymooktool": {
+      "CNAME": "47407c4f300bb01f.vercel-dns-017.com"
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=khaymooktool.runs-at.dev,0294c8bb86f6295c612b"
+      ]
+    }
+  }
 }
