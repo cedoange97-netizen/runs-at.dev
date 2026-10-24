@@ -4,6 +4,8 @@
     "github": "saputt"
   },
   "claimedAt": "2026-10-24T03:39:16.143Z",
-  "records": {},
+  "records": {
+    "CNAME": "sauki-putra.vercel.app"
+  },
   "country": "ID"
 }
