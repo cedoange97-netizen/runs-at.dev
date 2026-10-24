@@ -4,6 +4,10 @@
     "github": "alivesan"
   },
   "claimedAt": "2026-10-24T13:04:47.757Z",
-  "records": {},
+  "records": {
+    "A": [
+      "129.225.96.99"
+    ]
+  },
   "country": "IN"
 }
