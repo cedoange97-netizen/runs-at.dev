@@ -4,6 +4,11 @@
     "github": "sumitmandhare-ux"
   },
   "claimedAt": "2026-10-24T15:05:25.650Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "sumitmandhare-ux.github.io"
+  },
+  "country": "IN",
+  "profile": {
+    "name": "sumitmandhare-ux"
+  }
 }
